@@ -3,14 +3,6 @@
 
 public class ArrayTraining {
 
-   
-    public static void main(String[] args) {
-        
-        ArrayTraining tab=new ArrayTraining();
-                for (int element: tab.emptyIntArray(5)) {
-                System.out.print(element);
-        }
-    }
 
   
     public int[] emptyIntArray(int n) {
